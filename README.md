@@ -7,6 +7,7 @@ Project to collect, visualize, and analyze the spam account detection in Korean 
 - re (regex)
 - snscrape (twitter scraper)
 - datetime
+- KoNLP
 
 ## This project represents an example of...
 - my ability in using new and various APIs
